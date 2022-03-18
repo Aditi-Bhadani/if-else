@@ -7,4 +7,4 @@ else :
 if (a%3)==0:
     print (a, "is divisible by 3")
 else :
-    print (a, "not divisible by2")
+    print (a, "not divisible by 2")
